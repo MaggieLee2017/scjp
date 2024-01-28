@@ -1,3 +1,7 @@
+/* 
+ * 作者：Maggie Lee
+ * 修訂時間：2024/1
+ */
 public class chapter04exercises {
     public static void main(String[] args) {
         System.out.println("Q4_1:程式碼如下，請問最後結果為何？");
